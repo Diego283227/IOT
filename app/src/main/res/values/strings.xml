@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sqlite</string>
+    <string name="etinicio">SELECCIONA UN LABORATORIO</string>
+    <string name="respuesta">Respuesta</string>
+</resources>
